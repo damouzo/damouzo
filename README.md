@@ -2,7 +2,7 @@
 
 I'm a bioinformatician at Queen Mary University of London, exploring the molecular basis of complex haematological diseases through integrative multi-omic analysis. Experienced in single-cell and gene therapy projects, always looking to turn complex datasets into actionable insights.
 
-### Bionfo Omics
+### Bioinfo Omics
 ![Static Badge](https://img.shields.io/badge/RNA-Bulk%20RNAseq-%23e699ff) 
 ![Static Badge](https://img.shields.io/badge/RNA-Single%20cell%20RNAseq-%23e699ff) 
 ![Static Badge](https://img.shields.io/badge/RNA-Dual%20RNAseq-%23e699ff) 
