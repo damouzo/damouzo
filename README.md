@@ -1,6 +1,6 @@
 ## Hi! I'm Dani
 
-I'm a bioinformatician at Queen Mary University of London, exploring the molecular basis of complex haematological diseases through integrative multi-omic analysis. Experienced in single-cell and gene therapy projects, always looking to turn complex datasets into actionable insights.
+I'm a bioinformatician at Queen Mary University of London, exploring the molecular basis of complex haematological diseases through integrative multi-omic analysis. Experienced in single-cell and gene therapy projects, always looking to turn complex datasets into actionable insights. Check out my [portfolio here](https://damouzo.github.io/).
 
 ### Bioinfo Omics
 ![Static Badge](https://img.shields.io/badge/RNA-Bulk%20RNAseq-%23e699ff) 
