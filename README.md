@@ -6,6 +6,7 @@ I'm a bioinformatician at Queen Mary University of London, exploring the molecul
 ![Static Badge](https://img.shields.io/badge/RNA-Bulk%20RNAseq-%23e699ff) 
 ![Static Badge](https://img.shields.io/badge/RNA-Single%20cell%20RNAseq-%23e699ff) 
 ![Static Badge](https://img.shields.io/badge/RNA-Dual%20RNAseq-%23e699ff) 
+![Static Badge](https://img.shields.io/badge/RNA-small%20RNAseq-%23e699ff) 
 ![Static Badge](https://img.shields.io/badge/ATAC-Single%20cell%20ATACseq-%23ccff99) 
 ![Static Badge](https://img.shields.io/badge/ATAC-Bulk%20ATACseq-%23ccff99) 
 ![Static Badge](https://img.shields.io/badge/Multiome-Single%20cell%20Multiome-%23ffff99) 
